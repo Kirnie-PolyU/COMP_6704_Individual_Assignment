@@ -1,5 +1,5 @@
 # COMP_6704_Individual_Assignment
-
+# ZHANG Kening 23132029R
 # Multi-Agent Reinforcement Learning for Vehicular Task Offloading
 
 A comprehensive implementation and comparison of four reinforcement learning algorithms (MARL, SAC, PPO, QMIX) for multi-agent vehicular edge computing task offloading scenarios.
