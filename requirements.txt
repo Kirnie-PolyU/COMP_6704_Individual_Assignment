@@ -1,0 +1,7 @@
+# Multi-Agent Reinforcement Learning for Vehicular Task Offloading
+# Minimal requirements for running MARL, SAC, PPO, QMIX algorithms
+
+torch==2.2.2+cu121
+numpy==1.26.4
+matplotlib==3.9.4
+scipy==1.11.4
